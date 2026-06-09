@@ -1,4 +1,3 @@
 # commclassroomOP
 
-Kunal Kushwaha learing github amazing..
--Git is fun to learn.
+Kunal Kushwaha learing github is amazing.
